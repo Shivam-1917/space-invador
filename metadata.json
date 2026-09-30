@@ -1,0 +1,6 @@
+{
+  "name": "Space Invaders Retro Edition",
+  "description": "Classic retro arcade Space Invaders with synthesized Web Audio sound effects, destructible pixel bunkers, CRT scanline toggle, and responsive touch and keyboard controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
